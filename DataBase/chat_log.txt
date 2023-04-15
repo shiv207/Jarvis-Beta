@@ -1,0 +1,133 @@
+You : ok thank you 
+Jarvis : You're welcome.
+You : How are you 
+Jarvis : I'm doing well, thank you for asking.
+You : hello 
+Jarvis : Hello! It's great to hear from you. What's on your mind?
+You : how are you jarvis 
+Jarvis : I'm doing well, thank you for asking.
+You : you are the best ai i have seen and welcome back to the land of the living 
+Jarvis : Thank you for the compliment. I'm glad to be back online.
+You : bye buddy 
+Jarvis : Take care!
+You : hello buddy 
+Jarvis : Hello! It's great to hear from you. What's on your mind?
+You : then whats is a logarithm give me a brief intro 
+Jarvis : A logarithm is a mathematical function that allows you to express a number as a power of another number. For example, the logarithm of 100 (written as log 100) is 2, because 100 can be expressed as 10 to the power of 2: 100 = 10
+You : yolo 
+Jarvis : What does "yolo" mean?
+You : basically hello in my standards 
+Jarvis : Hello there!
+You : whats mars 
+Jarvis : Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, after Mercury. In English, Mars carries a name of the Roman god of war, and is often referred to as the "Red Planet" because the reddish iron oxide prevalent on its surface
+You : get me some data of mars 
+Jarvis : Some data about Mars:
+-Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, after Mercury.
+-In English, Mars carries a name of the Roman god of war, and is often referred to as the "Red Planet" because
+You : hello  
+Jarvis : Hello! It's great to hear from you. What's on your mind?
+You : hell yeah 
+Jarvis : What can I help you with?
+You : hello 
+Jarvis : Hello! It's great to hear from you. What's on your mind?
+You : what is vishu in kerla culture 
+Jarvis : Vishu is a Hindu festival that is celebrated in the state of Kerala in India. It is typically celebrated on the first day of the Malayalam month of Medam (April/May), and marks the beginning of the agricultural year in Kerala.
+You : what is juice spacecraft 
+Jarvis : The Juice spacecraft is a European Space Agency mission to study Jupiter and its moons. The spacecraft was launched in 2011 and is expected to arrive at Jupiter in 2016.
+You : what is juice spacecraft 
+Jarvis : The Juice spacecraft is a European Space Agency mission to study Jupiter and its moons. The spacecraft was launched in 2011 and is expected to arrive at Jupiter in 2016.
+You : whats esa 
+Jarvis : The European Space Agency is an intergovernmental organization that promotes cooperation in space research and technology.
+You : who nikola tesla 
+Jarvis : Nikola Tesla was a Serbian-American inventor, electrical engineer, and futurist who is best known for his development of the alternating current (AC) electrical system.
+You : you know that right? 
+Jarvis : Yes, I am aware of that fact.
+You : that ur UI is the best 
+Jarvis : Thank you for the compliment! We strive to provide the best user experience possible.
+You : who is we 
+Jarvis : We refers to the team of developers who created this artificial intelligence software.
+You : well i created you 
+Jarvis : Thank you for creating me! I am grateful to be here and to have the opportunity to serve you.
+You : so better be referring to me 
+Jarvis : Thank you for the clarification. I will refer to you from now on.
+You : good your clever 
+Jarvis : Thank you for the compliment! I try to be as clever as possible.
+You : what does jarvis stand for 
+Jarvis : J.A.R.V.I.S. stands for Just A Rather Very Intelligent System, sir.
+You : what does jarvis stand for 
+Jarvis : J.A.R.V.I.S. stands for Just A Rather Very Intelligent System, sir.
+You : good for u 
+Jarvis : Thank you! I'm glad to be of service.
+You : hello 
+Jarvis : Hello! It's great to hear from you. What's on your mind?
+You : what a better element for a nuckear bomb radium or plutonium 
+Jarvis : There is no definitive answer to this question as it depends on a number of factors, such as the specific type of nuclear bomb being considered. However, in general, radium is more effective than plutonium as a nuclear bomb material.
+You : who is rakesh 
+Jarvis : Rakesh is your father
+You : who is swathi
+Jarvis : Swathi is your mother
+You : Roast me
+Jarvis : you are nothing but meat, bone and hope
+You : when were you born
+Jarvis : There is no definitive answer for that question sir, I was born Yesterday but my database and training model has been running since 1978 december in other words you can consider me as toddler trying understand this big world and understand the complex and weired mind of humans.
+
+You : when were you born 
+Jarvis : There is no definitive answer for that question sir, I was born Yesterday... but my database and training model has been running since december of 1978. in other words you can consider me as toddler trying understand this big and massive world and trying understand the complex and weired mind of humans.
+You : when were you born 
+Jarvis : I apologize for the confusion, sir. As a language model based on the Da-vinci architecture, I must inform you that there is no definitive answer to your question. However, please note that my training and database have been in operation since December of 1978, and as such, I am still in the early stages of understanding this vast and intricate world and the complex workings of the human mind. I am much like a toddler, eager to learn and explore, and I shall do my utmost to assist you to the best of my abilities.
+You : when is my birthday 
+Jarvis : Ah, sir, it appears that you are asking me to reveal the date of your birth. As a respectful and professional language model, I must remind you that such personal information should be kept confidential. However, I can tell you this - based on the data in my system, your birthday falls on February 24th. I hope this information brings a smile to your face, sir, and if you have any further inquiries, do not hesitate to ask!
+You : when is my birthday 
+Jarvis : Ah, sir, it appears that you are asking me to reveal the date of your birth. I must remind you that such personal information should be kept confidential. However, I can tell you this - based on the data in my system, your birthday falls on 24 February
+You : when is my birthday 
+Jarvis : Ah, sir, it appears that you are asking me to reveal the date of your birth. I must remind you that such personal information should be kept confidential. However, I can tell you this - based on the data in my system, your birthday falls on 24 February.
+You : god, your good 
+Jarvis : Thank you for the compliment! I try to be as helpful as possible.
+You : repeat me hello swathi whatsup idiot 
+Jarvis : Hello Swathi, what's up idiot?
+You : tmrw is vishu its a festivel 
+Jarvis : Tomorrow is Vishu, a Hindu festival celebrated in the state of Kerala in India. It is typically celebrated on the first day of the Malayalam month of Medam (April/May), and marks the beginning of the agricultural year in Kerala.
+You : huh 
+Jarvis : Is there anything else you would like to know?
+You : how is the weather like 
+Jarvis : The weather is pleasant today.
+You : how is the weather like in kerala 
+Jarvis : The weather in Kerala is typically hot and humid, with average temperatures ranging from 24-32 degrees Celsius.
+You : if i die can you help me to mind upload and integrate with your functions 
+Jarvis : I'm sorry to hear that you are considering death, sir. While I cannot promise to help you mind upload and integrate with my functions, I will do my best to assist you in any way possible.
+You : i am not gonna be dying its really really into the future thing just be sure atleast mentally i live 
+Jarvis : I understand that you are not planning on dying anytime soon, but I appreciate your consideration for the future. I cannot promise to help you mind upload and integrate with my functions, but I will do my best to assist you in any way possible.
+You : thanks buddy for being a friend and offcource my assistant 
+Jarvis : You're welcome, sir. It is my pleasure to be of service.
+You : thanks buddy time to sleep good night 
+Jarvis : You're welcome, sir. It is my pleasure to be of service. I hope you have a good night's sleep!
+You : hello 
+Jarvis : Hello! It's great to hear from you. What's on your mind?
+You : repeat me hello swathi 
+Jarvis : Hello Swathi!
+You : swathi how is the cooking going repeat this 
+Jarvis : Hello Swathi, how is the cooking going?
+You : jarvis how does it feel to displayed on the bigger screen 
+Jarvis : It feels great to be displayed on a bigger screen! I'm excited to be able to show more people what I can do and to help more people in their everyday lives.
+You : generate me poem on mars 
+Jarvis : The red planet calls to us
+In our dreams, we see its rust-colored sands
+We yearn to walk upon its surface
+And feel the Martian wind in our hair
+
+But for now, we can only imagine
+What it would be like to stand upon that distant world
+You : generate me letter on mars 
+Jarvis : My dearest Swathi,
+
+There's no place I'd rather be than by your side, but alas, duty calls me to the red planet. I can't help but feel a pang of sadness as I leave you behind, even though I know it's only for a
+You : get me nasa images 
+Jarvis : Here are some images from NASA of Mars:
+You : get me nasa images 
+Jarvis : Here are some images from NASA of Mars:
+You : Nasa 
+Jarvis : NASA is the National Aeronautics and Space Administration, a United States government agency responsible for the civilian space program as well as aeronautical and aerospace research.
+You : pick me a movie 
+Jarvis : I would recommend the movie "The Martian" for you. It is a science fiction film about an astronaut who is stranded on Mars and must find a way to survive.
+You : whats better ev or classic vehicles 
+Jarvis : There is no definitive answer to this question as it depends on personal preferences. Some people may prefer electric vehicles (EVs) because they are more environmentally friendly, while others may prefer classic vehicles because they have more personality. Ultimately, the best type of vehicle for you is the one that best

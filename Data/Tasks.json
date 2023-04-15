@@ -1,0 +1,46 @@
+{
+    "intents":[
+        {
+            "tag":"open",
+            "patterns":["open","start","launch","visit"
+            ],
+            "responses":["open"
+            ]
+        },
+        {
+            "tag":"wikipedia",
+            "patterns":["wikipedia","wiki","wikisearch","wikipedia scrape","wikiscrape"
+            ],
+            "responses":["wikipedia"
+            ]
+        },
+        {
+            "tag":"music",
+            "patterns":["play some music","beats","hit some beats","music","hit some jams"
+            ],
+            "responses":["music"
+            ]
+        },
+        {
+            "tag":"Moviepicker",
+            "patterns":["random movie idea","random tv show idea","good shows to watch","good movies to watch"
+            ],
+            "responses":["Moviepicker"
+            ]
+        },
+        {
+            "tag":"generate literature",
+            "patterns":["generate letter","generate poem","write me a letter","write me a poem"
+            ],
+            "responses":["generate literature"
+            ]
+        },
+        {
+            "tag":"Nasa",
+            "patterns":["Get nasa images","Space images","Nasa images","Get space images"
+            ],
+            "responses":["Nasa"
+            ]
+        }
+    ]
+}
